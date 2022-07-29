@@ -1,13 +1,13 @@
 # Company Profile Based
 **Mutual Studio** is responsive admin template. Based on Bootstrap Framework. Highly customizable and easy to use.
 
-!["Masden Screenshot"](https://dennyaris.github.io/compro/assets/images/screenshoot.png "Masden Screenshot")
+!["Masden Screenshot"](https://dennyaris.github.io/company-profile/assets/images/screenshoot.png "Masden Screenshot")
 
 ## Contribution 
 Here is how : 
 
 - Fork the repository
-- Clone with ```git clone https://github.com/dennyaris/compro.git```
+- Clone with ```git clone https://github.com/dennyaris/company-profile.git```
 - Or Download zip
 
 
