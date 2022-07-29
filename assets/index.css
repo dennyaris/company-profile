@@ -1,3 +1,13 @@
 .item-image img{
   height: 230px;
 }
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
+
+#footerMenu {
+  position: relative;
+  animation: mymove 5s infinite;
+}
