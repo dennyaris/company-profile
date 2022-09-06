@@ -1,7 +1,7 @@
 # Company Profile Based
 **Mutual Studio** is responsive admin template. Based on Bootstrap Framework. Highly customizable and easy to use.
 
-!["Masden Screenshot"](https://dennyaris.github.io/company-profile/assets/images/screenshoot.png "Masden Screenshot")
+!["Mutual"](https://dennyaris.github.io/company-profile/assets/images/screenshoot.png "Mutual")
 
 ## Contribution 
 Here is how : 
